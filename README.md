@@ -1,6 +1,6 @@
 # WEB ANALYTICS
 
-**GOAL**
+**Goal**
 ---
    To create a dashboard that shows important metrics and KPI's of an E-commerce website's customer intention using Tableau.
     
