@@ -14,7 +14,7 @@ Link to the data set:
 
 **Description**
 ---
-   We analyse some important metrics such as session duration, bounce rate, exit rate of an  online shoppers. These metrics are brought on in a dashboard so that marketing team 
+   We want to analyse online shoppers behaviour on an e-commerce website. To analyse and make decision making process easier, some important metrics such as session duration, bounce rate, exit rate of a website are brought on in a dashboard so that marketing team 
    would get holistic view of the customers intention.
    
 [View the project in Tableau public](https://public.tableau.com/app/profile/thennarasu6605/viz/WebAnalytics_16262338595770/Dashboard1)
@@ -23,4 +23,4 @@ Link to the data set:
 
 **Conclusion**
 ---
-With this dashboard marketing team can understand their business performence on live and makes the decision making process easier.
+With this dashboard marketing team can understand their business performence on live and make the decision with ease.
