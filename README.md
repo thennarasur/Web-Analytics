@@ -6,12 +6,10 @@
     
 **Data Source**
 ---
-   The dataset was formed so that each session
-would belong to a different user in a 1-year period to avoid
-any tendency to a specific campaign, special day, user
-profile, or period.
+   This data set contains important metrics of e-commerce website.The dataset was formed so that each session
+would belong to a different user in a one year period.
 
-link to the data set:
+Link to the data set:
 [https://www.kaggle.com/sohelranaccselab/online-shoppers-purchasing-intention-dataset](https://www.kaggle.com/sohelranaccselab/online-shoppers-purchasing-intention-dataset)
 
 **Description**
