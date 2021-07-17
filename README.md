@@ -2,7 +2,7 @@
 
 **GOAL**
 ---
-   To create a dashboard that shows important metrics and KPI's of an E-commerce website's customer intention.
+   To create a dashboard that shows important metrics and KPI's of an E-commerce website's customer intention using Tableau.
     
 **Data Source**
 ---
@@ -21,4 +21,8 @@ link to the data set:
    
 [View the project in Tableau public](https://public.tableau.com/app/profile/thennarasu6605/viz/WebAnalytics_16262338595770/Dashboard1)
 
-![Image of the dashboard](C:\Users\arasu\Pictures\Screenshots\Web analytics.png)
+![Image of the dashboard](https://github.com/thennarasur/Web-Analytics/blob/main/Dashboard%20image.png)
+
+**Conclusion**
+---
+With this dashboard marketing team can understand their business performence on live and makes the decision making process easier.
