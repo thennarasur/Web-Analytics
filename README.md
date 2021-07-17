@@ -2,7 +2,7 @@
 
 **Goal**
 ---
-   To create a dashboard that shows important metrics and KPI's of an E-commerce website's customer intention using Tableau.
+   To create a dashboard that shows off important metrics and KPI's of an E-commerce website's customer intention using Tableau.
     
 **Data Source**
 ---
